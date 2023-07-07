@@ -30,7 +30,7 @@ twitter_username: frantz_willian
 github_username:  WLSF
 
 # Build settings
-theme: plainwhite
+remote_theme: WLSF/plainwhite-jekyll
 plugins:
   - jekyll-feed
 
