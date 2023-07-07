@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/WLSF/plainwhite-jekyll.git
+  revision: 9279850be519a6f0b36da41fa89f0c7fab936749
+  specs:
+    plainwhite (0.13)
+      jekyll (>= 3.7.3)
+      jekyll-seo-tag (>= 2.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -217,9 +225,6 @@ GEM
       sawyer (~> 0.9)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    plainwhite (0.13)
-      jekyll (>= 3.7.3)
-      jekyll-seo-tag (>= 2.1.0)
     public_suffix (4.0.7)
     racc (1.7.1)
     rb-fsevent (0.11.2)
@@ -258,9 +263,8 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   http_parser.rb (~> 0.6.0)
-  jekyll (~> 3.9.3)
   jekyll-feed (~> 0.12)
-  plainwhite
+  plainwhite!
   tzinfo (>= 1, < 3)
   tzinfo-data
   wdm (~> 0.1.1)
