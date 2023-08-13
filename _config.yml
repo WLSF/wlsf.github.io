@@ -33,6 +33,8 @@ github_username:  WLSF
 remote_theme: WLSF/plainwhite-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 plainwhite:
   dark_mode: true
