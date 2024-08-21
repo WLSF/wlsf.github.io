@@ -29,7 +29,7 @@ Os 2 exemplos acima ilustram o funcionamento do casamento de padrões.
 Onde a primeira execução aparenta ser uma simples atribuição, mas a partir da segunda, é possível perceber uma grande diferença conceitual.
 
 No segundo exemplo a runtime irá tentar encontrar o valor `"Hello "` no valor do lado direito do operador, se esse valor for encontrado(deu match)
-o resto do valor será armazenado na variável `world`.
+o resto do valor será armazenado na variável `world`.d
 
 Quando essa assertiva não acontece, e o padrão não é encontrado, uma exception é gerada.
 
